@@ -1,0 +1,6 @@
+{
+  "name": "Alerta Pet Perdido",
+  "description": "Alerta de cães e gatos perdidos com geolocalização e notificações para a comunidade local.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
